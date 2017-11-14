@@ -1,36 +1,20 @@
 # Homework #1
 
-## Instructions
----
-1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
-		
-	* Variables
-	* Strings
-	* Functions (arguments, `return`)
-	* `if` statements
-	* Boolean values (`true`, `false`)
+--Variables:
+imagine the variable as an empty bucket where you can save any type of information inside it,
+and change what inside it anytime during the program.
 
+--Strings:
+ a type of information used to represent alphabetical characters like names, addresses, food and other things
 
-2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
+--Functions (arguments, return):
+Function is a statement tells the computer to start list of instructions when we call it inside the program,
+while the arguments is the values that represent the actual value inside function. And finally return;
+returns the values or the arguments after the computation inside the function and end the function.
 
+--if statements:
+Its like a police check point where its got a stop sign and stop the flow of the information 
 
-3. Install SublimeText3.  If you have another editor that you prefer then you can use that. https://www.sublimetext.com/3
+--Boolean values (true, false):
+its like yes or no, 0 or 1.
 
-
-4. Download this project folder from GitHub.
-
-
-5. Navigate into the downloaded folder using Terminal(Mac) or Command Prompt(Windows).  `ls`(Mac), `dir`(Windows) and `cd <directory_name>` are the commands you need to navigate around.
-
-
-6. Once you are in the folder type the command `npm install`.  This will fetch all of the needed requirements for the project.
-
-
-7. Run `npm test` to run the automated tests.  At first all of the tests will be broken.  You will fill out the functions in `exercises.js` to make the tests pass.
-
-
-
-
-#### Congratulations on finishing Homework #1!
-
-For more information about Lambda School's six month CS program visit: https://lambdaschool.com
